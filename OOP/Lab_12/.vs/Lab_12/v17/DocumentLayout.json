@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\3_sem\\OOP\\Lab_12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1092A91C-8DEC-4689-8312-77EE314CBBF7}|Lab_12\\Lab_12.csproj|d:\\study\\3_sem\\oop\\lab_12\\lab_12\\kdnlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1092A91C-8DEC-4689-8312-77EE314CBBF7}|Lab_12\\Lab_12.csproj|solutionrelative:lab_12\\kdnlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1092A91C-8DEC-4689-8312-77EE314CBBF7}|Lab_12\\Lab_12.csproj|D:\\study\\3_sem\\OOP\\Lab_12\\lab_12\\kdndirinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1092A91C-8DEC-4689-8312-77EE314CBBF7}|Lab_12\\Lab_12.csproj|solutionrelative:lab_12\\kdndirinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1092A91C-8DEC-4689-8312-77EE314CBBF7}|Lab_12\\Lab_12.csproj|D:\\study\\3_sem\\OOP\\Lab_12\\lab_12\\kdndiskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1092A91C-8DEC-4689-8312-77EE314CBBF7}|Lab_12\\Lab_12.csproj|solutionrelative:lab_12\\kdndiskinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1092A91C-8DEC-4689-8312-77EE314CBBF7}|Lab_12\\Lab_12.csproj|D:\\study\\3_sem\\OOP\\Lab_12\\lab_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1092A91C-8DEC-4689-8312-77EE314CBBF7}|Lab_12\\Lab_12.csproj|solutionrelative:lab_12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1092A91C-8DEC-4689-8312-77EE314CBBF7}|Lab_12\\Lab_12.csproj|D:\\study\\3_sem\\OOP\\Lab_12\\lab_12\\kdnfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1092A91C-8DEC-4689-8312-77EE314CBBF7}|Lab_12\\Lab_12.csproj|solutionrelative:lab_12\\kdnfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1092A91C-8DEC-4689-8312-77EE314CBBF7}|Lab_12\\Lab_12.csproj|D:\\study\\3_sem\\OOP\\Lab_12\\lab_12\\fileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1092A91C-8DEC-4689-8312-77EE314CBBF7}|Lab_12\\Lab_12.csproj|solutionrelative:lab_12\\fileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 241,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KDNFileManager.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab_12\\Lab_12\\KDNFileManager.cs",
+              "RelativeDocumentMoniker": "Lab_12\\KDNFileManager.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab_12\\Lab_12\\KDNFileManager.cs",
+              "RelativeToolTip": "Lab_12\\KDNFileManager.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAswKcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-06T19:56:09.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KDNDiskInfo.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab_12\\Lab_12\\KDNDiskInfo.cs",
+              "RelativeDocumentMoniker": "Lab_12\\KDNDiskInfo.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab_12\\Lab_12\\KDNDiskInfo.cs",
+              "RelativeToolTip": "Lab_12\\KDNDiskInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-06T19:54:53.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KDNDirInfo.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab_12\\Lab_12\\KDNDirInfo.cs",
+              "RelativeDocumentMoniker": "Lab_12\\KDNDirInfo.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab_12\\Lab_12\\KDNDirInfo.cs",
+              "RelativeToolTip": "Lab_12\\KDNDirInfo.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-06T19:55:46.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KDNLog.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab_12\\Lab_12\\KDNLog.cs",
+              "RelativeDocumentMoniker": "Lab_12\\KDNLog.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab_12\\Lab_12\\KDNLog.cs",
+              "RelativeToolTip": "Lab_12\\KDNLog.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAwGwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-06T19:53:43.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab_12\\Lab_12\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_12\\Program.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab_12\\Lab_12\\Program.cs",
+              "RelativeToolTip": "Lab_12\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-06T19:52:34.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileInfo.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab_12\\Lab_12\\FileInfo.cs",
+              "RelativeDocumentMoniker": "Lab_12\\FileInfo.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab_12\\Lab_12\\FileInfo.cs",
+              "RelativeToolTip": "Lab_12\\FileInfo.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-06T22:03:12.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

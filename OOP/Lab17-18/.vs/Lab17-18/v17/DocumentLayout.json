@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\3_sem\\OOP\\Lab17-18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93CAAE18-CB83-4618-9D37-7543B2C1649F}|Lab17-18\\Lab17-18.csproj|D:\\study\\3_sem\\OOP\\Lab17-18\\lab17-18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CAAE18-CB83-4618-9D37-7543B2C1649F}|Lab17-18\\Lab17-18.csproj|solutionrelative:lab17-18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CAAE18-CB83-4618-9D37-7543B2C1649F}|Lab17-18\\Lab17-18.csproj|d:\\study\\3_sem\\oop\\lab17-18\\lab17-18\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CAAE18-CB83-4618-9D37-7543B2C1649F}|Lab17-18\\Lab17-18.csproj|solutionrelative:lab17-18\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CAAE18-CB83-4618-9D37-7543B2C1649F}|Lab17-18\\Lab17-18.csproj|D:\\study\\3_sem\\OOP\\Lab17-18\\lab17-18\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CAAE18-CB83-4618-9D37-7543B2C1649F}|Lab17-18\\Lab17-18.csproj|solutionrelative:lab17-18\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CAAE18-CB83-4618-9D37-7543B2C1649F}|Lab17-18\\Lab17-18.csproj|D:\\study\\3_sem\\OOP\\Lab17-18\\lab17-18\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CAAE18-CB83-4618-9D37-7543B2C1649F}|Lab17-18\\Lab17-18.csproj|solutionrelative:lab17-18\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CAAE18-CB83-4618-9D37-7543B2C1649F}|Lab17-18\\Lab17-18.csproj|D:\\study\\3_sem\\OOP\\Lab17-18\\lab17-18\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CAAE18-CB83-4618-9D37-7543B2C1649F}|Lab17-18\\Lab17-18.csproj|solutionrelative:lab17-18\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93CAAE18-CB83-4618-9D37-7543B2C1649F}|Lab17-18\\Lab17-18.csproj|D:\\study\\3_sem\\OOP\\Lab17-18\\lab17-18\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CAAE18-CB83-4618-9D37-7543B2C1649F}|Lab17-18\\Lab17-18.csproj|solutionrelative:lab17-18\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 241,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab17-18\\Lab17-18\\Factory.cs",
+              "RelativeDocumentMoniker": "Lab17-18\\Factory.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab17-18\\Lab17-18\\Factory.cs",
+              "RelativeToolTip": "Lab17-18\\Factory.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAjwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T09:44:42.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab17-18\\Lab17-18\\Singleton.cs",
+              "RelativeDocumentMoniker": "Lab17-18\\Singleton.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab17-18\\Lab17-18\\Singleton.cs",
+              "RelativeToolTip": "Lab17-18\\Singleton.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAArwCQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T09:44:50.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab17-18\\Lab17-18\\Person.cs",
+              "RelativeDocumentMoniker": "Lab17-18\\Person.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab17-18\\Lab17-18\\Person.cs",
+              "RelativeToolTip": "Lab17-18\\Person.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAnwC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T09:44:34.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab17-18\\Lab17-18\\Program.cs",
+              "RelativeDocumentMoniker": "Lab17-18\\Program.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab17-18\\Lab17-18\\Program.cs",
+              "RelativeToolTip": "Lab17-18\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T09:44:47.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab17-18\\Lab17-18\\Builder.cs",
+              "RelativeDocumentMoniker": "Lab17-18\\Builder.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab17-18\\Lab17-18\\Builder.cs",
+              "RelativeToolTip": "Lab17-18\\Builder.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA8wBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T09:44:24.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab17-18\\Lab17-18\\Application.cs",
+              "RelativeDocumentMoniker": "Lab17-18\\Application.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab17-18\\Lab17-18\\Application.cs",
+              "RelativeToolTip": "Lab17-18\\Application.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-21T11:01:41.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

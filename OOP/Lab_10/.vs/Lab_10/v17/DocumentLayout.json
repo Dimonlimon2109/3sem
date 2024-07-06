@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\3_sem\\OOP\\Lab_10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C848A23C-DC0C-4175-A022-DC041645606A}|Lab_10\\Lab_10.csproj|D:\\study\\3_sem\\OOP\\Lab_10\\lab_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C848A23C-DC0C-4175-A022-DC041645606A}|Lab_10\\Lab_10.csproj|solutionrelative:lab_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C848A23C-DC0C-4175-A022-DC041645606A}|Lab_10\\Lab_10.csproj|d:\\study\\3_sem\\oop\\lab_10\\lab_10\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C848A23C-DC0C-4175-A022-DC041645606A}|Lab_10\\Lab_10.csproj|solutionrelative:lab_10\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 241,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab_10\\Lab_10\\Stack.cs",
+              "RelativeDocumentMoniker": "Lab_10\\Stack.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab_10\\Lab_10\\Stack.cs",
+              "RelativeToolTip": "Lab_10\\Stack.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAACsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-03T14:33:29.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab_10\\Lab_10\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_10\\Program.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab_10\\Lab_10\\Program.cs",
+              "RelativeToolTip": "Lab_10\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAQwGUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-03T13:07:54.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>examination</id>
+    <version>1.0.0</version>
+    <authors>examination</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\study\3_sem\OOP\examination\examination\bin\Debug\net6.0\examination.runtimeconfig.json" target="lib\net6.0\examination.runtimeconfig.json" />
+    <file src="D:\study\3_sem\OOP\examination\examination\bin\Debug\net6.0\examination.dll" target="lib\net6.0\examination.dll" />
+  </files>
+</package>

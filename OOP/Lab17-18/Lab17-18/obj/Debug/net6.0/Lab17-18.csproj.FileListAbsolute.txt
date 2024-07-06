@@ -1,0 +1,14 @@
+D:\study\3_sem\OOP\Lab17-18\Lab17-18\bin\Debug\net6.0\Lab17-18.exe
+D:\study\3_sem\OOP\Lab17-18\Lab17-18\bin\Debug\net6.0\Lab17-18.deps.json
+D:\study\3_sem\OOP\Lab17-18\Lab17-18\bin\Debug\net6.0\Lab17-18.runtimeconfig.json
+D:\study\3_sem\OOP\Lab17-18\Lab17-18\bin\Debug\net6.0\Lab17-18.dll
+D:\study\3_sem\OOP\Lab17-18\Lab17-18\bin\Debug\net6.0\Lab17-18.pdb
+D:\study\3_sem\OOP\Lab17-18\Lab17-18\obj\Debug\net6.0\Lab17-18.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3_sem\OOP\Lab17-18\Lab17-18\obj\Debug\net6.0\Lab17-18.AssemblyInfoInputs.cache
+D:\study\3_sem\OOP\Lab17-18\Lab17-18\obj\Debug\net6.0\Lab17-18.AssemblyInfo.cs
+D:\study\3_sem\OOP\Lab17-18\Lab17-18\obj\Debug\net6.0\Lab17-18.csproj.CoreCompileInputs.cache
+D:\study\3_sem\OOP\Lab17-18\Lab17-18\obj\Debug\net6.0\Lab17-18.dll
+D:\study\3_sem\OOP\Lab17-18\Lab17-18\obj\Debug\net6.0\refint\Lab17-18.dll
+D:\study\3_sem\OOP\Lab17-18\Lab17-18\obj\Debug\net6.0\Lab17-18.pdb
+D:\study\3_sem\OOP\Lab17-18\Lab17-18\obj\Debug\net6.0\Lab17-18.genruntimeconfig.cache
+D:\study\3_sem\OOP\Lab17-18\Lab17-18\obj\Debug\net6.0\ref\Lab17-18.dll

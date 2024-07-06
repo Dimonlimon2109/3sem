@@ -1,0 +1,25 @@
+Сборка:Lab_11, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+
+Публичный конструктор присутствует!
+
+Название метода: get_name
+Название метода: set_name
+Название метода: get_weight
+Название метода: set_weight
+Название метода: get_birthYear
+Название метода: set_birthYear
+Название метода: Swim
+Название метода: MakeSound
+Название метода: Method
+Название метода: MyMethods
+Название метода: GetType
+Название метода: ToString
+Название метода: Equals
+Название метода: GetHashCode
+
+Информация про поля и свойства:
+Поле(свойство)[1] = <name>k__BackingField, тип = System.String, модификатор доступа: private
+Поле(свойство)[2] = <weight>k__BackingField, тип = System.Double, модификатор доступа: private
+Поле(свойство)[3] = <birthYear>k__BackingField, тип = System.UInt16, модификатор доступа: private
+
+Интерфейс[1] = Foo

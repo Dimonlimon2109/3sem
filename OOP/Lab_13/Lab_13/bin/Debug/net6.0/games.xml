@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Games>
+  <Dota2 company="Valve">
+    <year>2011</year>
+    <genre>MOBA</genre>
+  </Dota2>
+  <Valorant company="Riot Games">
+    <year>2009</year>
+    <genre>MOBA</genre>
+  </Valorant>
+</Games>

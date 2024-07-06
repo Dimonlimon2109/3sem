@@ -1,0 +1,14 @@
+D:\study\3_sem\OOP\Lab_12\Lab_12\bin\Debug\net6.0\Lab_12.exe
+D:\study\3_sem\OOP\Lab_12\Lab_12\bin\Debug\net6.0\Lab_12.deps.json
+D:\study\3_sem\OOP\Lab_12\Lab_12\bin\Debug\net6.0\Lab_12.runtimeconfig.json
+D:\study\3_sem\OOP\Lab_12\Lab_12\bin\Debug\net6.0\Lab_12.dll
+D:\study\3_sem\OOP\Lab_12\Lab_12\bin\Debug\net6.0\Lab_12.pdb
+D:\study\3_sem\OOP\Lab_12\Lab_12\obj\Debug\net6.0\Lab_12.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3_sem\OOP\Lab_12\Lab_12\obj\Debug\net6.0\Lab_12.AssemblyInfoInputs.cache
+D:\study\3_sem\OOP\Lab_12\Lab_12\obj\Debug\net6.0\Lab_12.AssemblyInfo.cs
+D:\study\3_sem\OOP\Lab_12\Lab_12\obj\Debug\net6.0\Lab_12.csproj.CoreCompileInputs.cache
+D:\study\3_sem\OOP\Lab_12\Lab_12\obj\Debug\net6.0\Lab_12.dll
+D:\study\3_sem\OOP\Lab_12\Lab_12\obj\Debug\net6.0\refint\Lab_12.dll
+D:\study\3_sem\OOP\Lab_12\Lab_12\obj\Debug\net6.0\Lab_12.pdb
+D:\study\3_sem\OOP\Lab_12\Lab_12\obj\Debug\net6.0\Lab_12.genruntimeconfig.cache
+D:\study\3_sem\OOP\Lab_12\Lab_12\obj\Debug\net6.0\ref\Lab_12.dll

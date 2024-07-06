@@ -1,0 +1,21 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (KDN-2023.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Error.cpp
+  FST.cpp
+D:\study\3_sem\KPO\SE_Lab23\KDN-2023\FST.cpp(58,17): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+D:\study\3_sem\KPO\SE_Lab23\KDN-2023\FST.cpp(1110,26): warning C4018: <: несоответствие типов со знаком и без знака
+  GRB.cpp
+  In.cpp
+  IT.cpp
+  Log.cpp
+  LT.cpp
+  Main.cpp
+  MFST.cpp
+D:\study\3_sem\KPO\SE_Lab23\KDN-2023\MFST.cpp(263,30): warning C4018: <: несоответствие типов со знаком и без знака
+  Out.cpp
+  Parm.cpp
+  PolishNotation.cpp
+D:\study\3_sem\KPO\SE_Lab23\KDN-2023\PolishNotation.cpp(59,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\3_sem\KPO\SE_Lab23\KDN-2023\PolishNotation.cpp(69,21): warning C4018: <: несоответствие типов со знаком и без знака
+  SA.cpp
+  Создание кода...
+  KDN-2023.vcxproj -> D:\study\3_sem\KPO\SE_Lab23\Debug\SE_Lab23.exe

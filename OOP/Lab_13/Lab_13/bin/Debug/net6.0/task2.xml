@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTiger xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tiger>
+    <year_of_birth>1990</year_of_birth>
+    <kg_weight>100</kg_weight>
+    <Name>Артём</Name>
+    <_height>80</_height>
+  </Tiger>
+  <Tiger>
+    <year_of_birth>2000</year_of_birth>
+    <kg_weight>96</kg_weight>
+    <Name>Ваня</Name>
+    <_height>90</_height>
+  </Tiger>
+  <Tiger>
+    <year_of_birth>1999</year_of_birth>
+    <kg_weight>105</kg_weight>
+    <Name>Гена</Name>
+    <_height>110</_height>
+  </Tiger>
+  <Tiger>
+    <year_of_birth>2009</year_of_birth>
+    <kg_weight>99</kg_weight>
+    <Name>Стас</Name>
+    <_height>91</_height>
+  </Tiger>
+</ArrayOfTiger>

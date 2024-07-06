@@ -1,0 +1,11 @@
+﻿  Error.cpp
+  In.cpp
+D:\study\3 sem\KPO\SELab17\SELab17\In.cpp(26,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\3 sem\KPO\SELab17\SELab17\In.cpp(65,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\study\3 sem\KPO\SELab17\SELab17\In.cpp(83,25): warning C4018: <: несоответствие типов со знаком и без знака
+  Log.cpp
+  Out.cpp
+  Parm.cpp
+  SELab17.cpp
+  Создание кода...
+  SELab17.vcxproj -> D:\study\3 sem\KPO\SELab17\Debug\SELab17.exe

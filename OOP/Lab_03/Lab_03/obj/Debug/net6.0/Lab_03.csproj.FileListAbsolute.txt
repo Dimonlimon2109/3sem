@@ -1,0 +1,14 @@
+D:\study\3 sem\OOP\Lab_03\Lab_03\bin\Debug\net6.0\Lab_03.exe
+D:\study\3 sem\OOP\Lab_03\Lab_03\bin\Debug\net6.0\Lab_03.deps.json
+D:\study\3 sem\OOP\Lab_03\Lab_03\bin\Debug\net6.0\Lab_03.runtimeconfig.json
+D:\study\3 sem\OOP\Lab_03\Lab_03\bin\Debug\net6.0\Lab_03.dll
+D:\study\3 sem\OOP\Lab_03\Lab_03\bin\Debug\net6.0\Lab_03.pdb
+D:\study\3 sem\OOP\Lab_03\Lab_03\obj\Debug\net6.0\Lab_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3 sem\OOP\Lab_03\Lab_03\obj\Debug\net6.0\Lab_03.AssemblyInfoInputs.cache
+D:\study\3 sem\OOP\Lab_03\Lab_03\obj\Debug\net6.0\Lab_03.AssemblyInfo.cs
+D:\study\3 sem\OOP\Lab_03\Lab_03\obj\Debug\net6.0\Lab_03.csproj.CoreCompileInputs.cache
+D:\study\3 sem\OOP\Lab_03\Lab_03\obj\Debug\net6.0\Lab_03.dll
+D:\study\3 sem\OOP\Lab_03\Lab_03\obj\Debug\net6.0\refint\Lab_03.dll
+D:\study\3 sem\OOP\Lab_03\Lab_03\obj\Debug\net6.0\Lab_03.pdb
+D:\study\3 sem\OOP\Lab_03\Lab_03\obj\Debug\net6.0\Lab_03.genruntimeconfig.cache
+D:\study\3 sem\OOP\Lab_03\Lab_03\obj\Debug\net6.0\ref\Lab_03.dll

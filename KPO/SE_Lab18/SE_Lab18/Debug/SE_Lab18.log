@@ -1,0 +1,10 @@
+﻿  FST.cpp
+D:\study\3_sem\KPO\SE_Lab18\SE_Lab18\FST.cpp(58,17): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+D:\study\3_sem\KPO\SE_Lab18\SE_Lab18\FST.cpp(822,26): warning C4018: <: несоответствие типов со знаком и без знака
+  In.cpp
+  LT.cpp
+  Log.cpp
+  MFST.cpp
+  SE_Lab18.cpp
+  Создание кода...
+  SE_Lab18.vcxproj -> D:\study\3_sem\KPO\SE_Lab18\Debug\SE_Lab18.exe

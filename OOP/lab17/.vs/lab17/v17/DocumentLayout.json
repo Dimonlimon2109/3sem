@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\3_sem\\OOP\\lab17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|D:\\study\\3_sem\\OOP\\lab17\\lab17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|solutionrelative:lab17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|D:\\study\\3_sem\\OOP\\lab17\\lab17\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|solutionrelative:lab17\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|d:\\study\\3_sem\\oop\\lab17\\lab17\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|solutionrelative:lab17\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|D:\\study\\3_sem\\OOP\\lab17\\lab17\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|solutionrelative:lab17\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|D:\\study\\3_sem\\OOP\\lab17\\lab17\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|solutionrelative:lab17\\builder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|D:\\study\\3_sem\\OOP\\lab17\\lab17\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|solutionrelative:lab17\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|D:\\study\\3_sem\\OOP\\lab17\\lab17\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|solutionrelative:lab17\\plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|D:\\study\\3_sem\\OOP\\lab17\\lab17\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|solutionrelative:lab17\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|D:\\study\\3_sem\\OOP\\lab17\\lab17\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|solutionrelative:lab17\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|D:\\study\\3_sem\\OOP\\lab17\\lab17\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|solutionrelative:lab17\\abstractfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|D:\\study\\3_sem\\OOP\\lab17\\lab17\\prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|solutionrelative:lab17\\prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|D:\\study\\3_sem\\OOP\\lab17\\lab17\\diagrams.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{24B0D520-ADCC-47B4-98A6-3AB33CEC420D}|lab17\\lab17.csproj|solutionrelative:lab17\\diagrams.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 960,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Program.cs",
+              "RelativeDocumentMoniker": "lab17\\Program.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Program.cs",
+              "RelativeToolTip": "lab17\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAmwD0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-22T20:43:19.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Command.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Command.cs",
+              "RelativeDocumentMoniker": "lab17\\Command.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Command.cs",
+              "RelativeToolTip": "lab17\\Command.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-22T20:43:19.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Strategy.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Strategy.cs",
+              "RelativeDocumentMoniker": "lab17\\Strategy.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Strategy.cs",
+              "RelativeToolTip": "lab17\\Strategy.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAcwDEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-22T20:43:19.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Decorator.cs",
+              "RelativeDocumentMoniker": "lab17\\Decorator.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Decorator.cs",
+              "RelativeToolTip": "lab17\\Decorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-22T20:43:19.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "State.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\State.cs",
+              "RelativeDocumentMoniker": "lab17\\State.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\State.cs",
+              "RelativeToolTip": "lab17\\State.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAA8wE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-22T20:43:19.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Singleton.cs",
+              "RelativeDocumentMoniker": "lab17\\Singleton.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Singleton.cs",
+              "RelativeToolTip": "lab17\\Singleton.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T10:44:12.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Builder.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Builder.cs",
+              "RelativeDocumentMoniker": "lab17\\Builder.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Builder.cs",
+              "RelativeToolTip": "lab17\\Builder.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T08:53:49.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Prototype.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Prototype.cs",
+              "RelativeDocumentMoniker": "lab17\\Prototype.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Prototype.cs",
+              "RelativeToolTip": "lab17\\Prototype.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T08:56:02.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Plan.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Plan.cs",
+              "RelativeDocumentMoniker": "lab17\\Plan.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Plan.cs",
+              "RelativeToolTip": "lab17\\Plan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T10:37:37.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Adapter.cs",
+              "RelativeDocumentMoniker": "lab17\\Adapter.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Adapter.cs",
+              "RelativeToolTip": "lab17\\Adapter.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-22T20:43:19.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AbstractFactory.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\AbstractFactory.cs",
+              "RelativeDocumentMoniker": "lab17\\AbstractFactory.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\AbstractFactory.cs",
+              "RelativeToolTip": "lab17\\AbstractFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-23T08:48:26.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Diagrams.cd",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Diagrams.cd",
+              "RelativeDocumentMoniker": "lab17\\Diagrams.cd",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\lab17\\lab17\\Diagrams.cd",
+              "RelativeToolTip": "lab17\\Diagrams.cd",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2023-12-23T11:04:23.771Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

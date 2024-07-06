@@ -1,0 +1,14 @@
+D:\study\3_sem\OOP\ControlWorking\ControlWorking\obj\Debug\net6.0\ControlWorking.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3_sem\OOP\ControlWorking\ControlWorking\obj\Debug\net6.0\ControlWorking.AssemblyInfoInputs.cache
+D:\study\3_sem\OOP\ControlWorking\ControlWorking\obj\Debug\net6.0\ControlWorking.AssemblyInfo.cs
+D:\study\3_sem\OOP\ControlWorking\ControlWorking\obj\Debug\net6.0\ControlWorking.csproj.CoreCompileInputs.cache
+D:\study\3_sem\OOP\ControlWorking\ControlWorking\bin\Debug\net6.0\ControlWorking.exe
+D:\study\3_sem\OOP\ControlWorking\ControlWorking\bin\Debug\net6.0\ControlWorking.deps.json
+D:\study\3_sem\OOP\ControlWorking\ControlWorking\bin\Debug\net6.0\ControlWorking.runtimeconfig.json
+D:\study\3_sem\OOP\ControlWorking\ControlWorking\bin\Debug\net6.0\ControlWorking.dll
+D:\study\3_sem\OOP\ControlWorking\ControlWorking\bin\Debug\net6.0\ControlWorking.pdb
+D:\study\3_sem\OOP\ControlWorking\ControlWorking\obj\Debug\net6.0\ControlWorking.dll
+D:\study\3_sem\OOP\ControlWorking\ControlWorking\obj\Debug\net6.0\refint\ControlWorking.dll
+D:\study\3_sem\OOP\ControlWorking\ControlWorking\obj\Debug\net6.0\ControlWorking.pdb
+D:\study\3_sem\OOP\ControlWorking\ControlWorking\obj\Debug\net6.0\ControlWorking.genruntimeconfig.cache
+D:\study\3_sem\OOP\ControlWorking\ControlWorking\obj\Debug\net6.0\ref\ControlWorking.dll

@@ -1,0 +1,48 @@
+  GetDiskInfo KDNDiskInfo 09.11.2023
+  GetDirInfo KDNDirInfo 09.11.2023
+  GetFileInfo KDNFileInfo 09.11.2023
+  GetFileAndDir KDNFileManager 09.11.2023
+  CreateDirAndFile KDNFileManager 09.11.2023
+  CopyFile KDNFileManager 09.11.2023
+  CreateDirAndCopyFile KDNFileManager 09.11.2023
+  end Main 
+  GetDiskInfo KDNDiskInfo 09.11.2023
+  GetDirInfo KDNDirInfo 09.11.2023
+  GetFileInfo KDNFileInfo 09.11.2023
+  GetFileAndDir KDNFileManager 09.11.2023
+  CreateDirAndFile KDNFileManager 09.11.2023
+  CopyFile KDNFileManager 09.11.2023
+  CreateDirAndCopyFile KDNFileManager 09.11.2023
+  begin Main 09.11.2023
+  GetDiskInfo KDNDiskInfo 09.11.2023
+  GetDirInfo KDNDirInfo 09.11.2023
+  GetFileInfo KDNFileInfo 09.11.2023
+  GetFileAndDir KDNFileManager 09.11.2023
+  CreateDirAndFile KDNFileManager 09.11.2023
+  CopyFile KDNFileManager 09.11.2023
+  CreateDirAndCopyFile KDNFileManager 09.11.2023
+  Archive File KDNFileManager
+11.11.2023 15:09:14 begin Main
+11.11.2023 15:09:14 GetDiskInfo KDNDiskInfo
+11.11.2023 15:09:14 GetDirInfo KDNDirInfo
+11.11.2023 15:09:14 GetFileInfo KDNFileInfo
+11.11.2023 15:09:14 GetFileAndDir KDNFileManager
+11.11.2023 15:09:14 CreateDirAndFile KDNFileManager
+11.11.2023 15:09:14 CopyFile KDNFileManager
+11.11.2023 15:09:14 CreateDirAndCopyFile KDNFileManager
+11.11.2023 15:09:14 Archive File KDNFileManager
+11.11.2023 15:09:14 end Main
+
+
+11.11.2023 15:27:14 begin Main
+11.11.2023 15:27:14 GetDiskInfo KDNDiskInfo
+11.11.2023 15:27:14 GetDirInfo KDNDirInfo
+11.11.2023 15:27:14 GetFileInfo KDNFileInfo
+11.11.2023 15:27:14 GetFileAndDir KDNFileManager
+11.11.2023 15:27:14 CreateDirAndFile KDNFileManager
+11.11.2023 15:27:14 CopyFile KDNFileManager
+11.11.2023 15:27:14 CreateDirAndCopyFile KDNFileManager
+11.11.2023 15:27:14 Archive File KDNFileManager
+11.11.2023 15:27:14 end Main
+
+

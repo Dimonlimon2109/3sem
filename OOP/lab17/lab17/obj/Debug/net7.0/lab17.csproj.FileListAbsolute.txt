@@ -1,0 +1,28 @@
+C:\Users\user\Documents\Labs 3sem\Объектно-ориентированные технологии программирования и стандарты проектирования\lab17\lab17\bin\Debug\net7.0\lab17.exe
+C:\Users\user\Documents\Labs 3sem\Объектно-ориентированные технологии программирования и стандарты проектирования\lab17\lab17\bin\Debug\net7.0\lab17.deps.json
+C:\Users\user\Documents\Labs 3sem\Объектно-ориентированные технологии программирования и стандарты проектирования\lab17\lab17\bin\Debug\net7.0\lab17.runtimeconfig.json
+C:\Users\user\Documents\Labs 3sem\Объектно-ориентированные технологии программирования и стандарты проектирования\lab17\lab17\bin\Debug\net7.0\lab17.dll
+C:\Users\user\Documents\Labs 3sem\Объектно-ориентированные технологии программирования и стандарты проектирования\lab17\lab17\bin\Debug\net7.0\lab17.pdb
+C:\Users\user\Documents\Labs 3sem\Объектно-ориентированные технологии программирования и стандарты проектирования\lab17\lab17\obj\Debug\net7.0\lab17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Labs 3sem\Объектно-ориентированные технологии программирования и стандарты проектирования\lab17\lab17\obj\Debug\net7.0\lab17.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Labs 3sem\Объектно-ориентированные технологии программирования и стандарты проектирования\lab17\lab17\obj\Debug\net7.0\lab17.AssemblyInfo.cs
+C:\Users\user\Documents\Labs 3sem\Объектно-ориентированные технологии программирования и стандарты проектирования\lab17\lab17\obj\Debug\net7.0\lab17.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Labs 3sem\Объектно-ориентированные технологии программирования и стандарты проектирования\lab17\lab17\obj\Debug\net7.0\lab17.dll
+C:\Users\user\Documents\Labs 3sem\Объектно-ориентированные технологии программирования и стандарты проектирования\lab17\lab17\obj\Debug\net7.0\refint\lab17.dll
+C:\Users\user\Documents\Labs 3sem\Объектно-ориентированные технологии программирования и стандарты проектирования\lab17\lab17\obj\Debug\net7.0\lab17.pdb
+C:\Users\user\Documents\Labs 3sem\Объектно-ориентированные технологии программирования и стандарты проектирования\lab17\lab17\obj\Debug\net7.0\lab17.genruntimeconfig.cache
+C:\Users\user\Documents\Labs 3sem\Объектно-ориентированные технологии программирования и стандарты проектирования\lab17\lab17\obj\Debug\net7.0\ref\lab17.dll
+D:\study\3_sem\OOP\lab17\lab17\bin\Debug\net7.0\lab17.exe
+D:\study\3_sem\OOP\lab17\lab17\bin\Debug\net7.0\lab17.deps.json
+D:\study\3_sem\OOP\lab17\lab17\bin\Debug\net7.0\lab17.runtimeconfig.json
+D:\study\3_sem\OOP\lab17\lab17\bin\Debug\net7.0\lab17.dll
+D:\study\3_sem\OOP\lab17\lab17\bin\Debug\net7.0\lab17.pdb
+D:\study\3_sem\OOP\lab17\lab17\obj\Debug\net7.0\lab17.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3_sem\OOP\lab17\lab17\obj\Debug\net7.0\lab17.AssemblyInfoInputs.cache
+D:\study\3_sem\OOP\lab17\lab17\obj\Debug\net7.0\lab17.AssemblyInfo.cs
+D:\study\3_sem\OOP\lab17\lab17\obj\Debug\net7.0\lab17.csproj.CoreCompileInputs.cache
+D:\study\3_sem\OOP\lab17\lab17\obj\Debug\net7.0\lab17.dll
+D:\study\3_sem\OOP\lab17\lab17\obj\Debug\net7.0\refint\lab17.dll
+D:\study\3_sem\OOP\lab17\lab17\obj\Debug\net7.0\lab17.pdb
+D:\study\3_sem\OOP\lab17\lab17\obj\Debug\net7.0\lab17.genruntimeconfig.cache
+D:\study\3_sem\OOP\lab17\lab17\obj\Debug\net7.0\ref\lab17.dll

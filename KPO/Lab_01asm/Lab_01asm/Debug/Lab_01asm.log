@@ -1,0 +1,5 @@
+﻿  Assembling Asm.asm...
+Asm.asm(38): error A2070: invalid instruction operands
+Asm.asm(39): error A2070: invalid instruction operands
+Asm.asm(44): error A2070: invalid instruction operands
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml.exe /c /nologo /Zi /Fo"Debug\Asm.obj" /Fl"$IntDir" /W3 /errorReport:prompt  /TaAsm.asm" с кодом "1".

@@ -1,0 +1,14 @@
+D:\study\3_sem\OOP\examination\examination\bin\Debug\net6.0\examination.exe
+D:\study\3_sem\OOP\examination\examination\bin\Debug\net6.0\examination.deps.json
+D:\study\3_sem\OOP\examination\examination\bin\Debug\net6.0\examination.runtimeconfig.json
+D:\study\3_sem\OOP\examination\examination\bin\Debug\net6.0\examination.dll
+D:\study\3_sem\OOP\examination\examination\bin\Debug\net6.0\examination.pdb
+D:\study\3_sem\OOP\examination\examination\obj\Debug\net6.0\examination.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3_sem\OOP\examination\examination\obj\Debug\net6.0\examination.AssemblyInfoInputs.cache
+D:\study\3_sem\OOP\examination\examination\obj\Debug\net6.0\examination.AssemblyInfo.cs
+D:\study\3_sem\OOP\examination\examination\obj\Debug\net6.0\examination.csproj.CoreCompileInputs.cache
+D:\study\3_sem\OOP\examination\examination\obj\Debug\net6.0\examination.dll
+D:\study\3_sem\OOP\examination\examination\obj\Debug\net6.0\refint\examination.dll
+D:\study\3_sem\OOP\examination\examination\obj\Debug\net6.0\examination.pdb
+D:\study\3_sem\OOP\examination\examination\obj\Debug\net6.0\examination.genruntimeconfig.cache
+D:\study\3_sem\OOP\examination\examination\obj\Debug\net6.0\ref\examination.dll

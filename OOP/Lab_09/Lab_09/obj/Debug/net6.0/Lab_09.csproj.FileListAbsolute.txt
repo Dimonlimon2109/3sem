@@ -1,0 +1,14 @@
+D:\study\3_sem\OOP\Lab_09\Lab_09\bin\Debug\net6.0\Lab_09.exe
+D:\study\3_sem\OOP\Lab_09\Lab_09\bin\Debug\net6.0\Lab_09.deps.json
+D:\study\3_sem\OOP\Lab_09\Lab_09\bin\Debug\net6.0\Lab_09.runtimeconfig.json
+D:\study\3_sem\OOP\Lab_09\Lab_09\bin\Debug\net6.0\Lab_09.dll
+D:\study\3_sem\OOP\Lab_09\Lab_09\bin\Debug\net6.0\Lab_09.pdb
+D:\study\3_sem\OOP\Lab_09\Lab_09\obj\Debug\net6.0\Lab_09.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\3_sem\OOP\Lab_09\Lab_09\obj\Debug\net6.0\Lab_09.AssemblyInfoInputs.cache
+D:\study\3_sem\OOP\Lab_09\Lab_09\obj\Debug\net6.0\Lab_09.AssemblyInfo.cs
+D:\study\3_sem\OOP\Lab_09\Lab_09\obj\Debug\net6.0\Lab_09.csproj.CoreCompileInputs.cache
+D:\study\3_sem\OOP\Lab_09\Lab_09\obj\Debug\net6.0\Lab_09.dll
+D:\study\3_sem\OOP\Lab_09\Lab_09\obj\Debug\net6.0\refint\Lab_09.dll
+D:\study\3_sem\OOP\Lab_09\Lab_09\obj\Debug\net6.0\Lab_09.pdb
+D:\study\3_sem\OOP\Lab_09\Lab_09\obj\Debug\net6.0\Lab_09.genruntimeconfig.cache
+D:\study\3_sem\OOP\Lab_09\Lab_09\obj\Debug\net6.0\ref\Lab_09.dll

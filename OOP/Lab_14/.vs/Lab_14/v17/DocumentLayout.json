@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\3_sem\\OOP\\Lab_14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F78227-FAC5-4825-ABC4-85236C24A6B8}|Lab_14\\Lab_14.csproj|d:\\study\\3_sem\\oop\\lab_14\\lab_14\\twothread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F78227-FAC5-4825-ABC4-85236C24A6B8}|Lab_14\\Lab_14.csproj|solutionrelative:lab_14\\twothread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F78227-FAC5-4825-ABC4-85236C24A6B8}|Lab_14\\Lab_14.csproj|D:\\study\\3_sem\\OOP\\Lab_14\\lab_14\\newthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F78227-FAC5-4825-ABC4-85236C24A6B8}|Lab_14\\Lab_14.csproj|solutionrelative:lab_14\\newthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F78227-FAC5-4825-ABC4-85236C24A6B8}|Lab_14\\Lab_14.csproj|D:\\study\\3_sem\\OOP\\Lab_14\\lab_14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F78227-FAC5-4825-ABC4-85236C24A6B8}|Lab_14\\Lab_14.csproj|solutionrelative:lab_14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F78227-FAC5-4825-ABC4-85236C24A6B8}|Lab_14\\Lab_14.csproj|D:\\study\\3_sem\\OOP\\Lab_14\\lab_14\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F78227-FAC5-4825-ABC4-85236C24A6B8}|Lab_14\\Lab_14.csproj|solutionrelative:lab_14\\domain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F78227-FAC5-4825-ABC4-85236C24A6B8}|Lab_14\\Lab_14.csproj|D:\\study\\3_sem\\OOP\\Lab_14\\lab_14\\getprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F78227-FAC5-4825-ABC4-85236C24A6B8}|Lab_14\\Lab_14.csproj|solutionrelative:lab_14\\getprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F78227-FAC5-4825-ABC4-85236C24A6B8}|Lab_14\\Lab_14.csproj|D:\\study\\3_sem\\OOP\\Lab_14\\lab_14\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F78227-FAC5-4825-ABC4-85236C24A6B8}|Lab_14\\Lab_14.csproj|solutionrelative:lab_14\\timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 241,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "timer.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab_14\\Lab_14\\timer.cs",
+              "RelativeDocumentMoniker": "Lab_14\\timer.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab_14\\Lab_14\\timer.cs",
+              "RelativeToolTip": "Lab_14\\timer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-17T14:32:08.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TwoThread.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab_14\\Lab_14\\TwoThread.cs",
+              "RelativeDocumentMoniker": "Lab_14\\TwoThread.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab_14\\Lab_14\\TwoThread.cs",
+              "RelativeToolTip": "Lab_14\\TwoThread.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-17T11:15:55.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetProcess.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab_14\\Lab_14\\GetProcess.cs",
+              "RelativeDocumentMoniker": "Lab_14\\GetProcess.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab_14\\Lab_14\\GetProcess.cs",
+              "RelativeToolTip": "Lab_14\\GetProcess.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-16T13:31:16.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Domain.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab_14\\Lab_14\\Domain.cs",
+              "RelativeDocumentMoniker": "Lab_14\\Domain.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab_14\\Lab_14\\Domain.cs",
+              "RelativeToolTip": "Lab_14\\Domain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-16T13:55:01.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab_14\\Lab_14\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_14\\Program.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab_14\\Lab_14\\Program.cs",
+              "RelativeToolTip": "Lab_14\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-16T13:29:02.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewThread.cs",
+              "DocumentMoniker": "D:\\study\\3_sem\\OOP\\Lab_14\\Lab_14\\NewThread.cs",
+              "RelativeDocumentMoniker": "Lab_14\\NewThread.cs",
+              "ToolTip": "D:\\study\\3_sem\\OOP\\Lab_14\\Lab_14\\NewThread.cs",
+              "RelativeToolTip": "Lab_14\\NewThread.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwDAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-16T14:12:03.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
